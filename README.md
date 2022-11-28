@@ -19,9 +19,9 @@
 ## 使用ツール
 
 <a href="https://www.microsoft.com/ja-jp/microsoft-365/excel/" target="_blank">
-<img src="./DocAssets/excel.svg" width="50" alt="Microsoft Excel">
+    <img src="./DocAssets/excel.svg" width="50" alt="Microsoft Excel">
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank">
-<img src="./DocAssets/vscode.svg" width="50" alt="Visual Studio Code">
+    <img src="./DocAssets/vscode.svg" width="50" alt="Visual Studio Code">
 </a>

@@ -18,5 +18,10 @@
 
 ## 使用ツール
 
-![[Excel](https://w.wiki/3e76)](./DocAssets/excel.svg)
-![[Visual Studio Code](https://w.wiki/3e7A)](./DocAssets/vscode.svg)
+<a href="https://w.wiki/3e76" target="_blank">
+<img src="./DocAssets/excel.svg" width="50" alt="Microsoft Excel">
+</a>
+
+<a href="https://w.wiki/3e7A" target="_blank">
+<img src="./DocAssets/vscode.svg" width="50" alt="Visual Studio Code">
+</a>

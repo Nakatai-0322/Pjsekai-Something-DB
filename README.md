@@ -10,11 +10,11 @@
 
 ## 問題対応
 
-制作段階で万全の注意を払っておりますが、著作権侵害等の問題がある場合は、[claim@nakatai.xyz](mailto:claim@nakatai.xyz)までご連絡ください。（法的事項の問い合わせ）
+制作段階で万全の注意を払っておりますが、著作権侵害等の問題がある場合は、[claim@nakatai.xyz](mailto:claim@nakatai.xyz)までご連絡ください。（法的事項の問い合わせ, できれば改竄防止でGPG署名していただけますと幸いです。）
 
 ※曲名及び、楽曲のタイトルは、「思想又は感情を創作的に表現したものであつて、文芸、学術、美術又は音楽の範囲に属するもの」に該当しないため、著作物ではありません。従ってこれによるクレームは無効となります。
 
-上記に該当しない誤字・脱字などの修正は[info@nakatai.ga](mailto:info@nakatai.ga)までご連絡ください。
+上記に該当しない誤字・脱字などの修正は[info@nakatai.ga](mailto:info@nakatai.ga)又は、[Twitter](https://go.nakatai.ga/twitter)までご連絡ください。
 
 ## 参考資料
 

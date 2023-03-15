@@ -4,6 +4,8 @@
 
 「[プロジェクトセカイ カラフルステージ！ feat. 初音ミク](https://pjsekai.sega.jp/)」（以下「プロセカ」）の予測変換辞書集です。
 
+「普通のIMEだとだいたい推しの漢字、曲が第一候補に出てこない！」というプチ悩みが原動力になって制作を開始しました。
+
 このリポジトリ、並びに関連制作物はSEGA, Colorful Palette等と一切関係のない[素人](https://go.nakatai.ga/twitter)が"[Creative Commons Zero v1.0 Universal](https://github.com/Nakatai-0322/Pjsekai-Something-DB/blob/main/LICENSE)"のライセンスの下、公表している非公式なものです。
 
 残念ながら（スクレイピング技術がないため）手作業で作成しているため、更新が遅れる、誤字脱字がある場合があります。ご了承ください。

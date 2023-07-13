@@ -26,7 +26,7 @@
 
 ※曲名及び、楽曲のタイトルは、単なる固有名詞であり、日本国内の著作権法第2条第1項第1号「思想又は感情を創作的に表現したものであつて、文芸、学術、美術又は音楽の範囲に属するもの」及びGitHub, Inc.の所在地たるアメリカでの著作物に該当しないため、著作物ではありません。従ってこれによるクレームは無効となります。
 
-上記に該当しない誤字・脱字などの修正は[info@nakatai.ga](mailto:info@nakatai.ga)又は、[Twitter](https://go.nakatai.ga/twitter)まで、若しくはこのレポジトリのIssueやPull Requestなどでご連絡ください。
+上記に該当しない誤字・脱字などの修正は[info@nakatai.ga](mailto:info@nakatai.xyz)又は、[Twitter](https://go.nakatai.xyz/twitter)まで、若しくはこのレポジトリのIssueやPull Requestなどでご連絡ください。
 
 ## 参考資料
 

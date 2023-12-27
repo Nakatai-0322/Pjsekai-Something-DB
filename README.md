@@ -8,7 +8,7 @@
 
 このリポジトリ、並びに関連, 付随制作物はSEGA, Colorful Palette等のプロセカ公式と一切関係のない[素人](https://go.nakatai.xyz/twitter)が"[Creative Commons Zero v1.0 Universal](https://github.com/Nakatai-0322/Pjsekai-Something-DB/blob/main/LICENSE)"のライセンスの下、公表している非公式なものです。
 
-手作業で作成しているため（スクレイピング技術を持っていない、したくないため）更新が遅れること、誤字脱字がある場合があります。ご了承ください。
+手作業で作成しているため（スクレイピング技術を持っていないため）更新が遅れること、誤字脱字がある場合があります。ご了承ください。
 
 ## ライセンス
 

@@ -22,17 +22,19 @@
 
 ## 問題対応
 
-制作段階で万全の注意を払っておりますが、著作権侵害等の問題がある場合は、[claim@nakatai.xyz](mailto:claim@nakatai.xyz)までご連絡ください。（このアドレスに連絡するような法的事項の問い合わせの場合、できれば改竄防止でGPG署名などしていただけますと幸いです。）
+制作段階で万全の注意を払っておりますが、**著作権侵害等の法的問題がある場合は、**[claim@nakatai.xyz](mailto:claim@nakatai.xyz)までご連絡ください。（このアドレスに連絡するような法的事項の問い合わせの場合、できれば改竄防止でGPG署名などしていただけますと幸いです。）
 
-※曲名及び、楽曲のタイトルは、単なる固有名詞であり、日本国内の著作権法第2条第1項第1号「思想又は感情を創作的に表現したものであつて、文芸、学術、美術又は音楽の範囲に属するもの」及びGitHub, Inc.の所在地たるアメリカでの著作物に該当しないため、著作物ではありません。従ってこれによるクレームは無効となります。
+※曲名及び、楽曲のタイトルは、単なる固有名詞であり、日本国内の著作権法第2条第1項第1号「思想又は感情を創作的に表現したものであつて、文芸、学術、美術又は音楽の範囲に属するもの」及びGitHub, Inc.の所在地たるアメリカ合衆国に於ける著作物に該当しないため、著作物ではありません。従ってこれによるクレームは無効となります。
 
-上記に該当しない誤字・脱字などの修正は[info@nakatai.xyz](mailto:info@nakatai.xyz)又は、[Twitter](https://go.nakatai.xyz/twitter)まで、若しくはこのレポジトリのIssueやPull Requestなどでご連絡ください。
+上記に該当しない単なる誤字・脱字などの修正は[info@nakatai.xyz](mailto:info@nakatai.xyz)又は、[Twitter](https://go.nakatai.xyz/twitter)まで、若しくはこのレポジトリのIssueやPull Requestなどでご連絡ください。
 
 ## 参考資料
 
 - 「CHARACTER ｜ プロジェクトセカイ カラフルステージ！ feat.初音ミク」, <https://pjsekai.sega.jp/character/index.html>
 
 - 「収録楽曲 | プロジェクトセカイ攻略Wiki」, <https://pjsekai.com/?aad6ee23b0>
+
+- 「初音ミク Wiki」, <https://w.atwiki.jp/hmiku>
 
 ## 使用ツール
 
